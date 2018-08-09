@@ -12544,11 +12544,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\COMLABPC8\\Documents\\Seed\\Cjnicdao.Calvin\\Cjnicdao.Calvin.Web\\Cjnicdao.Calvin.Web.csproj",
+      "projectUniqueName": "C:\\Users\\COMLABPC8\\Documents\\Projects\\Cjnicdao.Calvin\\Cjnicdao.Calvin.Web\\Cjnicdao.Calvin.Web.csproj",
       "projectName": "Cjnicdao.Calvin.Web",
-      "projectPath": "C:\\Users\\COMLABPC8\\Documents\\Seed\\Cjnicdao.Calvin\\Cjnicdao.Calvin.Web\\Cjnicdao.Calvin.Web.csproj",
+      "projectPath": "C:\\Users\\COMLABPC8\\Documents\\Projects\\Cjnicdao.Calvin\\Cjnicdao.Calvin.Web\\Cjnicdao.Calvin.Web.csproj",
       "packagesPath": "C:\\Users\\COMLABPC8\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\COMLABPC8\\Documents\\Seed\\Cjnicdao.Calvin\\Cjnicdao.Calvin.Web\\obj\\",
+      "outputPath": "C:\\Users\\COMLABPC8\\Documents\\Projects\\Cjnicdao.Calvin\\Cjnicdao.Calvin.Web\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
